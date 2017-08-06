@@ -1,5 +1,5 @@
 ---
-title: Depart & Arrive
+title: Your awesome title
 timezone: UTC
 collections:
   posts:
@@ -15,8 +15,7 @@ description: 'Write an awesome description for your new site here. You can edit 
 
 '
 baseurl: 
-url: 
-twitter_username: 
-github_username: departandarrive
+url: http://yourdomain.com
+twitter_username: jekyllrb
+github_username: jekyll
 markdown: kramdown
-theme: jekyll-theme-cayman
